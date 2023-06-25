@@ -1,1 +1,7 @@
+Chapter1
+Here are the tables of all the proteins used in each section of this chapter.
+The Frustratometer tool implemented in an R package can be found at the following link: https://github.com/proteinphysiologylab/frustratometeR
+The FrustraEvo tool can be found at the following link: https://github.com/proteinphysiologylab/FrustraEvo
+The FrustraPocket tool can be found at the following link: https://github.com/CamilaClemente/FrustraPocket
 
+All raw data used in the FrustraEvo test can be found at: https://github.com/proteinphysiologylab/Freiberger-RuizSerra_et_al2023
